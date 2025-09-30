@@ -6,7 +6,7 @@ package Obejtos;
 
 /**
  *
- * @author vians
+ * @author 1224
  */
 
 public class Electronico extends ProductoT<String> {
@@ -24,4 +24,5 @@ public class Electronico extends ProductoT<String> {
 }
 
     
+
 
