@@ -6,7 +6,9 @@ package Obejtos;
 
 /**
  *
- * @author vians
+ * @author 1224
+
+ 
  * @param <T>
  */
 public abstract class ProductoT <T> {
@@ -39,3 +41,4 @@ public abstract class ProductoT <T> {
     }
     
 }
+
