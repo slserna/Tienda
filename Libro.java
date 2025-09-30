@@ -6,7 +6,7 @@ package Obejtos;
 
 /**
  *
- * @author vians
+ * @author 1224
  */
 public class Libro extends ProductoT<String> {
     private int numeroPaginas;
@@ -21,6 +21,7 @@ public class Libro extends ProductoT<String> {
         this.numeroPaginas = numeroPaginas;
     }
 }
+
 
 
 
