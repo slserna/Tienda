@@ -7,7 +7,7 @@ package Obejtos;
 
 /**
  *
- * @author vians
+ * @author 1224
  */
 public class MainProducto {
 
@@ -34,4 +34,5 @@ public class MainProducto {
         
  }
     
+
 
